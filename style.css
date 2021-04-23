@@ -1,0 +1,40 @@
+.bg-image {
+    height: 600px;
+    background-image: url("https://a.travel-assets.com/findyours-php/viewfinder/images/res40/201000/201217-Pena-De-Bernal.jpg");
+    background-size: cover;
+    margin-top: 0%;
+    position: relative;
+}
+.my-image {
+    align-content: center;
+    height: 17%;
+    width: 8%;
+    margin-left: 45%;
+    margin-top: 10%;
+    border: solid 5px;
+    border-color: aliceblue;
+    border-radius: 50%;
+    background-image: url("https://scontent.fqro2-1.fna.fbcdn.net/v/t1.18169-9/12552948_1166838610011952_5550007550825617326_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=174925&_nc_eui2=AeFjjFLTu7dcIJOIJPp5ygo_VR1zXm9xrExVHXNeb3GsTOeM5rPn2qNJ9aV53-ygZIdXkBFSBS8ZhnlLqoK6m4FT&_nc_ohc=aqwiF9CVWXkAX8Mrdrq&_nc_ht=scontent.fqro2-1.fna&oh=d84f34394dfbe03ce941511bf24cb570&oe=60A91041");
+    background-size: cover;
+    position: absolute; /*con absolute deja de moverse la imagen de fondo*/
+}
+
+.my-name {
+   position: absolute; 
+   text-align: center;
+   margin-left: 40%;
+    margin-top: 20%;
+    font-size: 3rem;
+    font-family: 'Coda Caption', sans-serif;
+    color: blanchedalmond;
+}
+
+.my-location {
+    position: absolute;
+    text-align: center;
+   margin-left: 37%;
+    margin-top: 26%;
+    font-size: 3rem;
+    font-family: 'Coda Caption', sans-serif;
+    color: blanchedalmond;
+}
